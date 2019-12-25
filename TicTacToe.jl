@@ -19,8 +19,7 @@ end
 println("Welcome to the game of Tic Tac Toe!")
 println("to specify your move, please enter the X and Y coordinate when prompted.")
 println("For example, the top right corner would be (1, 1).")
-i = 1
-winstate = "Draw Game."
+
 while true
 println("")
 println("Enter A or B to choose game mode.")
